@@ -1,0 +1,208 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "French Style Mustard Seitan",
+      "description": "A vegetarian take on a retro classic. Inspired by a recipe from the New York Times.",
+      "type": "main course",
+      "cuisine": "French",
+      "prepTime": "15",
+      "cookTime": "20",
+      "servings": "4",
+      "ingredients": [
+        "8 oz seitan",
+        "1 tbsp olive oil",
+        "1/2 cup shallots finely minced",
+        "2 tbsp whole grain dijon mustard",
+        "2 tbsp dijon mustard",
+        "1/3 cup white wine",
+        "Salt and pepper to taste",
+        "1 cup vegetable broth",
+        "2 tbsps milk (dairy, oat, or whatever your preference)",
+        "2 tbsp chopped fresh parsely"
+      ],
+      "instructions": [
+        "Heat olive oil in low medium heat in a medium skillet or dutch oven",
+        "When oil is hot, add the shallot with pinch of salt",
+        "Cook shallot for 5-8 minutes, until it browns",
+        "Add the wine, cook down until its evaporated about 5-10 minutes",
+        "Add the vegetable broth and the whole grain dijon mustard, cook for 5 minutes",
+        "Turn the heat to low, add the dijon mustard and the milk",
+        "Serve immediately over the seitan, garnishing with chopped parsely",
+        "Serve with mashed potatoes, roasted potatoes, or rice and a side of vegetables"
+      ],
+      "tags": [
+        "seitan",
+        "dinner"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Basic Mashed Potatoes",
+      "description": "Classic homemade mashed potatoes",
+      "type": "side dish",
+      "cuisine": "American",
+      "prepTime": "15",
+      "cookTime": "30",
+      "servings": "4",
+      "ingredients": [
+        "5 large russet potatoes, peeled and chopped into 1 inch chunks",
+        "Water for boiling, enough to cover the potatoes",
+        "Small slice of onion or shallot",
+        "1 garlic clove smashed",
+        "1/2 a large bay leaf",
+        "1/2 a rib of celery, with leaves if possible",
+        "1 tbsp butter chopped into small chunks",
+        "Salt and pepper to taste",
+        "Milk (dairy, oat, or whatever your preference)"
+      ],
+      "instructions": [
+        "Chop potatoes",
+        "Place potatoes in a large pot",
+        "Cover with water, add vegetables and bay leaf",
+        "Turn heat on high, boil for 15-20 minutes",
+        "Checking the potatoes periodically to see if they are ready",
+        "If a fork can easily enter them then they are ready",
+        "Drain off water. Note: you can keep it for broth if you wish",
+        "Discard the celery etc. Put the potatoes back in the pot",
+        "Add the chopped up butter and milk",
+        "Mash with a potato masher",
+        "Serve immediately"
+      ],
+      "tags": [
+        "comfort food",
+        "easy"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Seitan Chikun Marsala",
+      "description": "Enjoy a delicious plant-based version of the classic Chicken Marsala",
+      "type": "main course",
+      "cuisine": "Italian",
+      "prepTime": "15",
+      "cookTime": "30",
+      "servings": "4",
+      "ingredients": [
+        "8 oz seitan cutlets",
+        "4 garlic cloves",
+        "3/4 cup Marsala wine",
+        "1 cup vegetable broth",
+        "1/2 cup raw cashews (blended for creaminess)",
+        "1-2 tbsp butter",
+        "1/8 tsp dried thyme",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Dredge seitan cutlets in flour seasoned with salt an pepper",
+        "Sear in a hot skillet with oil until golden brown on both sides",
+        "Remove cutlets and set aside",
+        "For the Marsala sauce, saute the mushrooms until golden brown",
+        "Add garlic and cook for 30 seconds",
+        "Deglaze pan with Marsala wine",
+        "Add vegetable broth and blended cashews",
+        "Simmer until sauce thickens",
+        "Return the cutlets to the sauce",
+        "Warm through for 2-3 minutes",
+        "Garnish with fresh parsley"
+      ],
+      "tags": [
+        "seitan",
+        "dinner"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Sauteed Broccoli with Garlic",
+      "description": "Delicious garlicky sauteed broccoli",
+      "type": "side dish",
+      "cuisine": "American",
+      "prepTime": "15",
+      "cookTime": "30",
+      "servings": "4",
+      "ingredients": [
+        "2 crowns broccoli",
+        "2 heads garlic minced",
+        "1 tbsp olive oil"
+      ],
+      "instructions": [
+        "Bring a large pot with a steaming tray to boil",
+        "Once the water is boiling, add the broccoli to the tray",
+        "Steam the broccoli for 4 minutes",
+        "Add olive oil to a medium skillet, set heat to high",
+        "Once skillet is hot add the garlic for minute until it sizzles",
+        "Add broccoli and toss until it gets browned",
+        "Serve immediately"
+      ],
+      "tags": [
+        "easy"
+      ]
+    },
+    {
+      "id": "d75d",
+      "name": "Simple Red Pasta Sauce",
+      "description": "Spicy classic pasta sauce",
+      "type": "side dish",
+      "cuisine": "Italian",
+      "prepTime": "5",
+      "cookTime": "30",
+      "servings": "2",
+      "ingredients": [
+        "1 15oz can of diced tomatoes",
+        "1 15oz can of tomato sauce",
+        "1 tsp tomato paste",
+        "1/4 cup minced onions",
+        "1 clove garlic minced",
+        "1 tbsp olive oil",
+        "small bunch of chopped fresh basil",
+        "1/4 tsp dried oregano",
+        "1 pinch of sugar",
+        "1/4 tsp salt",
+        "1/4 crushed red pepper"
+      ],
+      "instructions": [
+        "Add olive oil to a sauce pan. Once hot add the onions for 4 minutes",
+        "Add garlic cook for 1 minute",
+        "Add tomatoes. Add tomato paste and spices and salt",
+        "Bring to a boil. Once boiling reduce to a simmer and cook partially covered for 30 min"
+      ],
+      "tags": [
+        "spicy",
+        "classic"
+      ]
+    },
+    {
+      "name": "Lentils and Rice",
+      "description": "Flavorful middle eastern dish. Spiced with cumin seed.",
+      "type": "main course",
+      "cuisine": "Middle Eastern",
+      "prepTime": "45 minutes",
+      "cookTime": "30 minutes",
+      "servings": "6",
+      "ingredients": [
+        "1 cup white basmati rice",
+        "0.5 cup lentils",
+        "2 tbsp olive oil",
+        "1 tsp cumin seed",
+        "1/8 tsp salt",
+        "2 cups water",
+        "2 tsp bouillon",
+        "1 clove garlic"
+      ],
+      "instructions": [
+        "Pick stones out of lentils",
+        "Rinse rice",
+        "Boil lentils for 10 minutes until cooked, set aside",
+        "Sautee garlic in oil",
+        "Add lentils and rice to garlic, add water and bouillion",
+        "Bring to a boil then stir once, set to simmer on low heat covered for 15 minutes.",
+        "Turn off heat and remove lid. Let sit for 5 minutes and serve"
+      ],
+      "tags": [
+        "healthy meal"
+      ],
+      "id": "HCDg2FUrf_k"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

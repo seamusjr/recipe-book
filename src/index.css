@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-playfair: 'Playfair Display', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-playfair;
+  font-weight: 900;
+}
+
+h1 {
+    text-transform: uppercase;
+}
